@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matt Howard ===================================================================================================================================  Magician/Creator ----------------  I am a Magician who likes to use all the tools at my disposal to create magical and memorable moments for my audiences.  * 🌍  I'm based in Dallas * 🖥️  See my portfolio at [booking website](http://thematthoward.com) * 🧠  I'm learning Arduino Coding * ⚡  Magic isn't real... but don't tell anyone.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matt Howard 
+===================================================================================================================================  
+Magician/Creator 
+----------------  
+I am a Magician who likes to use all the tools at my disposal to create magical and memorable moments for my audiences.  * 🌍  I'm based in Dallas * 🖥️  See my portfolio at [booking website](http://thematthoward.com) * 🧠  I'm learning Arduino Coding * ⚡  Magic isn't real... but don't tell anyone.
 
 ### Skills  
 
