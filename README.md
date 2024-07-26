@@ -5,7 +5,7 @@ Magician/Creator
 I am a Magician who likes to use all the tools at my disposal to create magical and memorable moments for my audiences.  
 *  🌍  I'm based in Dallas
 *  🖥️  [booking website](http://thematthoward.com)
-*  🧠  I'm learning Arduino Coding
+*  🧠  Worsking on and Arduino Rabbit in a TopHat
 *  ⚡  Magic isn't real... but don't tell anyone.
 
 ### Skills  
